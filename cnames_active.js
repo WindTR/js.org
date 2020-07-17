@@ -2317,6 +2317,7 @@ var cnames_active = {
   "wikidata-elements": "lisongx.github.io/wikidata-elements",
   "wildfire": "cheng-kang.github.io/wildfire",
   "willy": "willyarisky.github.io/willy",
+  "wind": "windtr.github.io/Website"
   "windows": "munchkinhalfling.github.io/wasm-windows",
   "with-immutable-props-to-js": "tophat.github.io/with-immutable-props-to-js",
   "within": "eric-brechemier.github.io/within", // noCF? (don´t add this in a new PR)
